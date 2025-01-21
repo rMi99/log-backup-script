@@ -1,6 +1,4 @@
 
-
-```markdown
 # Log Backup Script
 
 This script backs up MongoDB logs, truncates the original log, and deletes backups older than 7 days.
