@@ -1,4 +1,4 @@
-Here’s a brief version of the `README.md`:
+
 
 ```markdown
 # Log Backup Script
